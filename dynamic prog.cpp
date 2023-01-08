@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//using recursion
+/*using recursion*/
 //int knapsack(int wt[],int val[],int n,int w){
     // base case
 //	if(n==0 || w==0){
